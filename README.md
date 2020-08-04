@@ -2,5 +2,5 @@
 SQL challenge mobile app players values difference
 the request is to create SQL query presenting difference between the last value over time and the first value over time for each player_id (clarification: not the biggest and the lowest values difference).
 Desired final schema is: player_id, difference
-samble data will in file named data2
+sample data will in file named data2
 
